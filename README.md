@@ -2,8 +2,6 @@
 
 InkFlow is a modern Next.js blog platform for reading, searching, publishing, and managing blog posts. It uses Firebase for authentication/admin access and MongoDB for storing blog data, with demo API fallback support for blog browsing.
 
-# Admin Login
-scribe.oishi@gmail.com pass:Oishi123!
 ## Key Features
 
 - Responsive landing page with featured blog posts and topic categories
@@ -50,7 +48,7 @@ scribe.oishi@gmail.com pass:Oishi123!
    ```
 
 6. Admin credentials: scribe.oishi@gmail.com
-   Password: Oishi1!
+   Password: Oishi123!
 
 7. User credentials: uxquery@gmail.com
    Password: Shimanto!
